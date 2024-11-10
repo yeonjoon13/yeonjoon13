@@ -1,7 +1,12 @@
 # 👋 Hi, I'm Kenny! 
 
-👨🏻‍💻 Software Engineer Intern @ Esurgi<br>🎓 Studying Computer Science @ Johns Hopkins University<br>📚 My favorite languages are Python, JavaScript, and Java<br>🌱 I’m currently learning Go and NLP<br>😄 Pronouns: He/Him<br>
+👨🏻‍💻 Software Engineer Intern @ Esurgi  
+🎓 Studying Computer Science @ Johns Hopkins University  
+📚 My favorite languages are Python, JavaScript, and Java  
+🌱 I’m currently learning Go and NLP  
+😄 Pronouns: He/Him  
 
+🔗 Check out my LeetCode: [LeetCode Profile](https://leetcode.com/u/jooni22/) 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kenny-chung2001/) 
